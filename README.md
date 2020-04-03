@@ -1,4 +1,4 @@
-# Discription
+# Description
 Web application for tracking your portfolio on stock market
 
 Currently available MOEX and SPB exchange
